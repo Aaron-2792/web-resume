@@ -16,5 +16,5 @@ Credits
 
 Developed by Aaron Rader as part of a Software Engineering project. Assisted by ChatGPT for documentation and structuring.
 
-Maintained by: Aaron RaderContact: LinkedIn | Email: Aaron92727@hotmail.com
+Maintained by: Aaron Rader | Email: aaronrader@lewisu.edu
 
